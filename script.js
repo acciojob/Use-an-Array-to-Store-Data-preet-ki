@@ -1,1 +1,56 @@
-
+var youArray=[
+	[
+		{
+		one:1,
+		two:2
+		},
+		{
+			three:3,
+			four:4,
+		}
+	],
+	[
+	{
+		name:"preeti",
+		name:"neha"
+	},
+	{
+		name:"shivani",
+		name:"sayma"
+		
+	}
+	],
+	[
+	{
+		value:true,
+		values:false
+	},
+	{
+		condition:true,
+		condition:false
+	}
+	],
+	[
+		{name:"maya",
+	     age:18
+		},
+		{
+			name:"riti",
+			age:20
+		}
+	],
+	[
+		{
+			val=true,
+			name="sita",
+			age:15
+		},
+		{
+			val=false,
+			name="siya",
+			age:21
+		}
+	]
+	
+];
+console.log(youArray);
