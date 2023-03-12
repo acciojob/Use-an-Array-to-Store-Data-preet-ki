@@ -6,7 +6,7 @@ var youArray=[
 		},
 		{
 			three:3,
-			four:4,
+			four:4
 		}
 	],
 	[
